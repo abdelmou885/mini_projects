@@ -1,4 +1,4 @@
-#First solutin
+#First solution
 n = int(input())
 y = 0
 
