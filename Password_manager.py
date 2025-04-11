@@ -13,7 +13,7 @@ def load_key():
     return key
 
 master_pwd=input("Enter your password:").lower()
-if master_pwd=="abdel":
+if master_pwd=="text":
     print("Welcome to Password Manager")
 else:
     sys.exit("access denied ")
